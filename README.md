@@ -1,9 +1,9 @@
 ### 👋 Hi there, I’m Alejandro Sosa!
 
-🌍 Based in Kollbrunn, Switzerland
-💼 Software Engineer with 16+ years of experience
-🧠 Passionate about clean architecture, team mentoring, and building reliable systems
-📡 Open to remote or hybrid roles across Europe
+- 🌍 Based in Kollbrunn, Switzerland
+- 💼 Software Engineer with 16+ years of experience
+- 🧠 Passionate about clean architecture, team mentoring, and building reliable systems
+- 📡 Open to remote or hybrid roles across Europe
 
 ---
 
