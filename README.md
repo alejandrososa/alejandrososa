@@ -16,6 +16,13 @@
 
 ---
 
+### 🗣️ Languages I Speak
+- 🇪🇸 Spanish (Native)  
+- 🇺🇸 English (Professional)  
+- 🇩🇪 German (Intermediate, B1 in progress)  
+
+---
+
 ### 💻 Programming Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
@@ -139,14 +146,6 @@
   <img width="12" />
   <img src="https://code.visualstudio.com/assets/branding/code-stable.png" height="40" alt="vscode logo" />
 </div>
-
-
----
-
-### 🗣️ Languages I Speak
-- 🇪🇸 Spanish (Native)  
-- 🇺🇸 English (Professional)  
-- 🇩🇪 German (Intermediate, B1 in progress)  
 
 ---
 
