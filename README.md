@@ -152,4 +152,4 @@
 
 ### 📬 Contact Me
 - 📧 Email: alesjohnson [at] hotmail [dot] com  
-- 💼 LinkedIn: [linkedin.com/in/alejandrososa](https://www.linkedin.com/in/alejandrososa)
+- 💼 LinkedIn: [linkedin.com/in/alejandrososa](https://www.linkedin.com/in/alejandrososaperez/)
